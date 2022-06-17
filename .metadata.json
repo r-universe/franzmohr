@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bvartools",
+    "oncran": true
+  },
+  {
+    "package": "oenb",
+    "oncran": true
+  },
+  {
+    "package": "prais",
+    "oncran": true
+  }
+]

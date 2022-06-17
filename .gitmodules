@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bvartools"]
+	path = bvartools
+	url = https://github.com/franzmohr/bvartools
+	shallow = true
+	registered = true
+[submodule "oenb"]
+	path = oenb
+	url = https://github.com/franzmohr/oenb
+	shallow = true
+	registered = true
+[submodule "prais"]
+	path = prais
+	url = https://github.com/franzmohr/prais
+	shallow = true
+	registered = true
