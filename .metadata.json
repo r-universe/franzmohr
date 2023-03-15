@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "prais",
+    "package": "oenb",
     "oncran": true
   },
   {
-    "package": "oenb",
+    "package": "prais",
     "oncran": true
   }
 ]
